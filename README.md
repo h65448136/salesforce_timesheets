@@ -1,2 +1,5 @@
 # salesforce_timesheets
-Salesforce.com Mobile Timesheets
+
+Author: Harry Wang
+
+App Name: Salesforce.com Mobile Timesheets
